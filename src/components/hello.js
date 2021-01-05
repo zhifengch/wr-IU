@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import reactPng from "../../resources/images/react.png";
+import reactPng from "../../resources/images/logo512.png";
 class Hello extends Component {
   constructor(props) {
     super(props);
